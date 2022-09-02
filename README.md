@@ -13,3 +13,5 @@
 - You can also see the weather of your current location
 - Real time value of Ethereum is shown on the dashboard with 24hr high/low prices
 - All the prices are visible in INR
+
+[Live Demo](https://fahad-masood.github.io/personal-dashboard/)
